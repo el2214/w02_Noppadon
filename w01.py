@@ -23,3 +23,4 @@ print(txt)
 
 print(is_online)
 print(Power_on)
+
